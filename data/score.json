@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "GeForce GTX 1660 Super",
+            "price": 2199,
+            "score": 12962,
+            "ratio": 5.89
+        },
+        {
+            "name": "GeForce GTX 1650 Super",
+            "price": 1472,
+            "score": 9969,
+            "ratio": 6.77
+        },
+        {
+            "name": "GeForce RTX 3080 Ti",
+            "price": 12999,
+            "score": 26573,
+            "ratio": 2.04
+        }
+    ]
+}
