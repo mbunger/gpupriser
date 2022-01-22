@@ -1,0 +1,23 @@
+{
+  "name": "gpupriser",
+  "version": "0.0.1",
+  "description": "Compare gpu prices and show best value based on score and price.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbunger/gpupriser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbunger/gpupriser/issues"
+  },
+  "homepage": "https://github.com/mbunger/gpupriser#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "jsdom": "^19.0.0"
+  }
+}
